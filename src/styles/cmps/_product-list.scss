@@ -8,13 +8,5 @@
 
   .product-preview {
     width: 100%;
-
-    @media (min-width: $mobile-breakpoint) {
-      width: 100%;
-    }
-
-    @media (min-width: 1200px) {
-      width: 100%;
-    }
   }
 }
